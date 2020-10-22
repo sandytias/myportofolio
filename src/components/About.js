@@ -31,7 +31,7 @@ function About() {
         <div className="text-center mt-4">
           <a
             className="btn btn-xl btn-outline-light"
-            href="https://res.cloudinary.com/dxenadjps/image/upload/v1602490097/images/CV_SANDY_TIAS_SASMITA_is3jra.jpg"
+            href="https://res.cloudinary.com/dxenadjps/image/upload/v1603360225/images/0001_xeoanh.jpg"
           >
             <i className="fas fa-image mr-2"></i>
             My CV
